@@ -6,7 +6,7 @@ export default function App() {
       <div className="bg-white rounded-lg shadow-2xl p-8 max-w-md w-full mx-4">
         <div className="text-center">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
-            Hello World! 👋
+            Hello LC60! 👋
           </h1>
           <p className="text-lg text-gray-600 mb-6">
             Welcome to your React app deployed on AWS Amplify
@@ -31,7 +31,7 @@ export default function App() {
           </div>
           <div className="mt-6 pt-6 border-t border-gray-200">
             <p className="text-sm text-gray-500">
-              Built with React • Deployed with AWS Amplify • Managed by Terraform
+              Built by Marcelo with React • Deployed with AWS Amplify • Managed by Terraform
             </p>
           </div>
         </div>
